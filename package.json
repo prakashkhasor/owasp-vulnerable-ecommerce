@@ -1,0 +1,1 @@
+{\n  "name": "owasp-vulnerable-ecommerce",\n  "version": "1.0.0",\n  "description": "A vulnerable ecommerce application for testing OWASP vulnerabilities.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "sqlite3": "^5.0.0",\n    "express-session": "^1.17.1"\n  }\n}
