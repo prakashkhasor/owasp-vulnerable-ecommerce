@@ -1,1 +1,2 @@
-run = "npm install && npm start"
+run = "node server.js"
+entrypoint = "server.js"
